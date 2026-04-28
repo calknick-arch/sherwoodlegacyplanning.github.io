@@ -1,1 +1,0 @@
-<!DOCTYPE html><html><head><title>Sherwood Legacy Planning - README.md</title></head><body><h1>README.md</h1><p>Full content and images would be here.</p></body></html>
